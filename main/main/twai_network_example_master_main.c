@@ -27,6 +27,7 @@
 #include "esp_err.h"
 #include "esp_log.h"
 #include "driver/twai.h"
+#include "print_hello.h"
 
 /* --------------------- Definitions and static variables ------------------ */
 //Example Configuration

@@ -3,4 +3,7 @@
 cmake_minimum_required(VERSION 3.5)
 
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
-project(can_alert_and_recovery_example)
+
+
+set(EXTRA_COMPONENT_DIRS "C:/Users/dongr/Code/MultiLibs/experiment_multi_lib_canbus/ml_canbus/esp-idf")
+project(twai_network_master)
